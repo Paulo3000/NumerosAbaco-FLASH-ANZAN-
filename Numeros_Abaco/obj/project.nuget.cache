@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KnpVll9MYXGj5SIKNzJEdgXD4uLo9KTyIGHHboBNY5SO9hbzJ6skeZeRQ5ioWKLGHbZ1ESSdb1Vq8jK/R01gxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paulo\\Desktop\\programação\\c#\\ProgrmasConcluidos\\26-Numeros_Abaco\\Numeros_Abaco\\Numeros_Abaco.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paulo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
